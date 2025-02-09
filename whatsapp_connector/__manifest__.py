@@ -11,14 +11,15 @@
 # Apoya nuestro trabajo y permite que sigamos mejorando este módulo y el servicio!
 # =====================================================================================
 {
-    'name': 'ChatRoom BASE Whatsapp - 17.0.17',
+    'name': 'ChatRoom BASE Whatsapp - Messenger - Instagram. Live Chat. Real All in One with ChatGPT OpenAI '
+            'and Sale Funnels. Online translator.',
     'summary': 'From ChatRoom main view Search & Send Product. With ChatGPT OpenAI and Sale Funnel. Send message '
                'from many places with Templates (Sale, Invoice, Purchase, CRM Leads, Product, Stock Picking, Partner).'
                ' Like AmoCRM, Kommo, Hubspot, Zendesk. Online translator. Reminders. Text search in messages.'
                ' apichat.io GupShup Chat-Api ChatApi. Whatsapp, Instagram DM, FaceBook Messenger. ChatRoom 2.0.',
     'description': 'Send Product, Real All in One. Send and receive messages. Real ChatRoom. WhatsApp integration. '
                    'WhatsApp Connector. apichat.io. GupShup. Chat-Api. ChatApi. Drag and Drop. ChatRoom 2.0.',
-    'version': '17.0.17.0',
+    'version': '17.0.16.2',
     'author': 'AcruxLab',
     'live_test_url': 'https://chatroom.acruxlab.com/web/signup',
     'support': 'info@acruxlab.com',

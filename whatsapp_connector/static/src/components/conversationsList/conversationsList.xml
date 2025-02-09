@@ -78,7 +78,7 @@
                 </t>
             </div>
             <div class="flex-grow-1 d-flex flex-column overflow-hidden o_chatlist w-100" t-else="">
-                <div class="d-flex flex-column overflow-auto w-100 flex-grow-1 flex-shrink-1 flex-basis-0">
+                <div class="d-flex flex-column overflow-auto w-100 flex-grow-0 flex-shrink-1 flex-basis-auto">
                     <t t-foreach="currentConversations" t-as="conv" t-key="conv.id">
                         <Conversation selectedConversation="props.selectedConversation" conversation="conv" />
                     </t>
@@ -91,7 +91,7 @@
                         <i class="fa fa-sm fa-chevron-down" title="Waiting"/>
                     </div>
                 </ChatroomHeader>
-                <div class="d-flex flex-column overflow-auto w-100 flex-grow-1 flex-shrink-1 flex-basis-0">
+                <div class="d-flex flex-column overflow-auto w-100 flex-grow-1 flex-shrink-1 flex-basis-auto">
                     <t t-foreach="waintingConversations" t-as="conv" t-key="conv.id">
                         <Conversation selectedConversation="props.selectedConversation" conversation="conv" />
                     </t>
